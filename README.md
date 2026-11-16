@@ -14,10 +14,10 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 2 | 0 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 1 | 0 |
 | [Investments & Asset Management](#investments--asset-management) | 19 | 0 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 116 | 17 |
-| [Corporate Finance](#corporate-finance) | 18 | 3 |
-| [Banking & Wealth Advisory](#banking--wealth-advisory) | 9 | 4 |
-| [Risk & Compliance](#risk--compliance) | 32 | 2 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 116 | 12 |
+| [Corporate Finance](#corporate-finance) | 18 | 2 |
+| [Banking & Wealth Advisory](#banking--wealth-advisory) | 9 | 3 |
+| [Risk & Compliance](#risk--compliance) | 32 | 1 |
 | [Actuarial & Insurance](#actuarial--insurance) | 14 | 6 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
