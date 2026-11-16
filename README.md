@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**220 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**221 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Quantitative Finance & Trading](#quantitative-finance--trading) | 2 | 0 |
+| [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 0 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 1 | 0 |
 | [Investments & Asset Management](#investments--asset-management) | 20 | 1 |
 | [Accounting, Audit & Tax](#accounting-audit--tax) | 123 | 14 |
@@ -24,12 +24,13 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Quantitative Finance & Trading
 
-<sub>2 open roles</sub>
+<sub>3 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **BMO** | Quantitative Trading Analyst, Co-op | Toronto, ON | Summer 2027<br><sub>12 or 16 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/25035a04-8fd2-4ebe-bb09-9fb5314c4926?from=github-finance) |
 | **University Pension Plan** | Analyst – Trading, Liquidity and Exposure Management, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/e23f7f3f-a74f-4e09-a009-ac1bf090bab1?from=github-finance) |
+| **CPP Investments** | Analyst, PhD – Systematic Strategies Group, Intern | Toronto, ON | Summer 2027 | Oct 4 | [Apply ↗](https://coawp.com/go/cfd277a0-7dc5-43e3-a323-100a6c1e50f9?from=github-finance) |
 
 <p align="right"><sub><a href="#canadian-finance-internships-2027">Back to top</a></sub></p>
 
