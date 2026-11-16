@@ -12,9 +12,9 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 0 |
-| [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 1 | 0 |
+| [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 20 | 1 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 125 | 16 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 124 | 16 |
 | [Corporate Finance](#corporate-finance) | 19 | 2 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 10 | 3 |
 | [Risk & Compliance](#risk--compliance) | 30 | 1 |
@@ -36,10 +36,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Investment Banking & Capital Markets
 
-<sub>1 open role</sub>
+<sub>2 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **CIBC** | Investment Banking Analyst – Energy & Infrastructure, Intern | Calgary, AB | Summer 2028<br><sub>4 months</sub> | Nov 15 | [Apply ↗](https://coawp.com/go/1dc2e477-ddee-4709-94ff-1b8ee23daa30?from=github-finance) |
 | **Agentis Capital** | Investment Banking Winter Analyst – Infrastructure M&A Advisory | Toronto, ON<br>Vancouver, BC | Winter 2027<br><sub>4 months</sub> | Jun 29 | [Apply ↗](https://coawp.com/go/22a2d153-9bdd-40b8-8a90-bfac13962ebb?from=github-finance) |
 
 <p align="right"><sub><a href="#canadian-finance-internships-2027">Back to top</a></sub></p>
@@ -75,7 +76,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>125 open roles</sub>
+<sub>124 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -181,7 +182,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Dream** | Corporate Accounting, Intern | Toronto, ON | Winter 2027<br><sub>8 months</sub> | Sep 22 | [Apply ↗](https://coawp.com/go/2caf90f0-8906-4601-9160-ae0b8d907d1a?from=github-finance) |
 | **Bird Construction** | Accounting Assistant, Student | Mississauga, ON | Winter 2027<br><sub>4 or 8 months</sub> | Sep 21 | [Apply ↗](https://coawp.com/go/0af25d1c-4fd3-4d84-a3b8-f0816b55841c?from=github-finance) |
 | **MNP** | Assurance and Accounting, Co-op | Thunder Bay, ON | Winter 2027<br><sub>4 months</sub> | Sep 21 | [Apply ↗](https://coawp.com/go/29b1b4d9-5f97-49d0-a637-22b2dc82ff1c?from=github-finance) |
-| **Magnet Forensics** | Finance, Co-op | Waterloo, ON<br><sub>Hybrid</sub> | Winter 2027 | Sep 17 | [Apply ↗](https://coawp.com/go/dbbcef0c-03d7-4386-a1fb-7922d35a5499?from=github-finance) |
 | **Fleetworthy (Drivewyze)** | Finance, Intern | Edmonton, AB | — | Sep 15 | [Apply ↗](https://coawp.com/go/fffefe44-4c26-4435-a7d6-212e4cec287a?from=github-finance) |
 | **MNP** | Accountant, Co-op | Port Hope, ON | Winter 2027<br><sub>4 months</sub> | Sep 15 | [Apply ↗](https://coawp.com/go/be2689e3-2e0f-462f-8535-d48c15a1af8c?from=github-finance) |
 | **NFI Group** | Accounting, Intern | Winnipeg, MB | 4 months | Sep 13 | [Apply ↗](https://coawp.com/go/f424ca5d-7f43-4bb6-bb60-7ca79ce82f6a?from=github-finance) |
