@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**221 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**223 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -14,9 +14,9 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 0 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 1 | 0 |
 | [Investments & Asset Management](#investments--asset-management) | 20 | 1 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 123 | 14 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 124 | 15 |
 | [Corporate Finance](#corporate-finance) | 20 | 3 |
-| [Banking & Wealth Advisory](#banking--wealth-advisory) | 9 | 3 |
+| [Banking & Wealth Advisory](#banking--wealth-advisory) | 10 | 3 |
 | [Risk & Compliance](#risk--compliance) | 31 | 1 |
 | [Actuarial & Insurance](#actuarial--insurance) | 14 | 6 |
 
@@ -75,11 +75,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>123 open roles</sub>
+<sub>124 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
-| **KPMG** | Audit, Co-op | Waterloo, ON | Summer 2027 | Nov 13 | [Apply ↗](https://coawp.com/go/c338fd93-a11c-4fd8-838a-dbc3245c691c?from=github-finance) |
+| **KPMG** | CPA Opportunities in Audit, Co-op | Toronto, ON<br>Vaughan, ON | Summer, Fall 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/a9830f05-d0e6-4706-b908-8e48148b7caa?from=github-finance) |
+| ↳ | Audit, Co-op | Waterloo, ON | Summer 2027 | Nov 13 | [Apply ↗](https://coawp.com/go/c338fd93-a11c-4fd8-838a-dbc3245c691c?from=github-finance) |
 | **BDO Canada** | Financial Reporting & Insights, Intern | Montréal, QC | Winter 2027<br><sub>2 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/dfeed7d6-1eda-4744-bfdc-a0307428da82?from=github-finance) |
 | **Kinectrics** | Accounting – Financial Reporting, Co-op | Toronto, ON | Winter 2027<br><sub>8 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/a4382cc7-281a-4af6-a10a-0ea6cfc9a0ca?from=github-finance) |
 | **Ryan** | Sales and Use Tax, Intern | Mississauga, ON | Summer 2027 | Nov 12 | [Apply ↗](https://coawp.com/go/3628df42-6e3d-4c5a-a532-698f30ecb206?from=github-finance) |
@@ -236,7 +237,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Banking & Wealth Advisory
 
-<sub>9 open roles</sub>
+<sub>10 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -244,6 +245,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Client Advisor, Intern | Brantford, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/62b11956-d794-4e52-bff9-3742824d22c5?from=github-finance) |
 | **TD** | Commercial Banking, Co-op | Victoria, BC | Winter 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/f25631d2-e3d0-4548-992d-903075438e9c?from=github-finance) |
 | **BMO** | Portfolio Assistant, Co-op<br><sub>Requires French</sub> | Brossard, QC | Winter 2027<br><sub>4 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/5cd5d6a2-55cb-49d7-a8cc-0a6b3d372e63?from=github-finance) |
+| **RBC** | Data Analyst – Wealth Management, Intern | Toronto, ON | Winter 2027 | Nov 5 | [Apply ↗](https://coawp.com/go/0bae8f71-aa94-45fd-80a5-65d9420c49a5?from=github-finance) |
 | **Scotiabank** | ASPIRE Commercial Banking – Agriculture, Co-op | Calgary, AB | Summer 2027<br><sub>4 or 8 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/0e198242-8a21-40f8-9840-bc71039f2125?from=github-finance) |
 | **BMO** | Personal Banking Associate, Co-op<br><sub>Requires French</sub> | Victoriaville, QC | Winter 2027<br><sub>4 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/0c7fff94-5f27-4ee7-b9e2-43f93649fe07?from=github-finance) |
 | ↳ | Personal Banking Associate, Co-op<br><sub>Requires French</sub> | Saint-Georges, QC | Winter 2027<br><sub>4 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/e10883e5-9437-4c8b-a358-00c3f5c862bb?from=github-finance) |
