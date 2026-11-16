@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**213 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**211 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -16,8 +16,8 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Investments & Asset Management](#investments--asset-management) | 19 | 0 |
 | [Accounting, Audit & Tax](#accounting-audit--tax) | 116 | 17 |
 | [Corporate Finance](#corporate-finance) | 18 | 3 |
-| [Banking & Wealth Advisory](#banking--wealth-advisory) | 10 | 4 |
-| [Risk & Compliance](#risk--compliance) | 33 | 2 |
+| [Banking & Wealth Advisory](#banking--wealth-advisory) | 9 | 4 |
+| [Risk & Compliance](#risk--compliance) | 32 | 2 |
 | [Actuarial & Insurance](#actuarial--insurance) | 14 | 6 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
@@ -225,7 +225,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Banking & Wealth Advisory
 
-<sub>10 open roles</sub>
+<sub>9 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -238,13 +238,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Personal Banking Associate, Co-op<br><sub>Requires French</sub> | Saint-Georges, QC | Winter 2027<br><sub>4 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/e10883e5-9437-4c8b-a358-00c3f5c862bb?from=github-finance) |
 | **Investissement Québec** | Account Director – Regional Network, Intern<br><sub>Requires French</sub> | Saguenay, QC | Winter 2027<br><sub>4 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/ca72b4a3-9bcf-44a0-a9ab-e451607f0147?from=github-finance) |
 | ↳ | Account Director – Regional Network, Intern<br><sub>Requires French</sub> | Brossard, QC | Winter 2027<br><sub>4 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/1504f463-4e14-412a-a248-975c521a5ba9?from=github-finance) |
-| ↳ | Account Director – Regional Network, Intern<br><sub>Requires French</sub> | Laval, QC<br>Saint-Jérôme, QC<br><sub>+3 more</sub> | Winter 2027<br><sub>4 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/234896d2-68c3-4437-bc8e-a61733d0ba2a?from=github-finance) |
 
 <p align="right"><sub><a href="#canadian-finance-internships-2027">Back to top</a></sub></p>
 
 ## Risk & Compliance
 
-<sub>33 open roles</sub>
+<sub>32 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -271,7 +270,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **CAE** | Environment, Health & Safety, Intern | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/1cf126ee-c9a2-44a5-826c-7fa52a7f0e1f?from=github-finance) |
 | **Bombardier** | Health, Safety and Environment Department, Intern | Saint-Laurent, QC | Winter 2027<br><sub>8 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/24ff043d-2d69-4c09-b2cc-f44d287489c1?from=github-finance) |
 | ↳ | Health, Safety and Environment Service, Intern | Saint-Laurent, QC | Winter 2027<br><sub>8 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/9ca5f317-9ef2-4a92-96f5-f1616c488b0c?from=github-finance) |
-| **Investissement Québec** | Analyst – Regional Network, Intern<br><sub>Requires French</sub> | Québec, QC<br>Drummondville, QC<br><sub>+10 more</sub> | Winter 2027<br><sub>4 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/74887a94-1ccf-46c9-8f7f-ab2849f8c88f?from=github-finance) |
 | **Varian (Siemens Healthineers)** | Quality Systems, Co-op | Ottawa, ON | — | Oct 15 | [Apply ↗](https://coawp.com/go/59a13ed6-b63c-420e-99f8-812339bad618?from=github-finance) |
 | **Bombardier** | Archiving and Information Governance, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 8 | [Apply ↗](https://coawp.com/go/a74af88c-e867-4308-97d3-f579a47fa3dc?from=github-finance) |
 | ↳ | Information Archiving and Governance, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 8 | [Apply ↗](https://coawp.com/go/fdb60a02-a943-43ca-8a92-c0c3e0fcee38?from=github-finance) |
