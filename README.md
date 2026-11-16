@@ -235,8 +235,8 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 | **BMO** | Personal Banking Associate, Co-op<br><sub>Requires French</sub> | Victoriaville, QC | Winter 2027<br><sub>4 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/0c7fff94-5f27-4ee7-b9e2-43f93649fe07?from=github-finance) |
 | ↳ | Personal Banking Associate, Co-op<br><sub>Requires French</sub> | Saint-Georges, QC | Winter 2027<br><sub>4 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/e10883e5-9437-4c8b-a358-00c3f5c862bb?from=github-finance) |
 | **Investissement Québec** | Account Director – Regional Network, Intern<br><sub>Requires French</sub> | Saguenay, QC | Winter 2027<br><sub>4 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/ca72b4a3-9bcf-44a0-a9ab-e451607f0147?from=github-finance) |
-| ↳ | Account Director – Regional Network, Intern<br><sub>Requires French</sub> | Laval, QC<br>Saint-Jérôme, QC<br><sub>+3 more</sub> | Winter 2027<br><sub>4 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/234896d2-68c3-4437-bc8e-a61733d0ba2a?from=github-finance) |
 | ↳ | Account Director – Regional Network, Intern<br><sub>Requires French</sub> | Brossard, QC | Winter 2027<br><sub>4 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/1504f463-4e14-412a-a248-975c521a5ba9?from=github-finance) |
+| ↳ | Account Director – Regional Network, Intern<br><sub>Requires French</sub> | Laval, QC<br>Saint-Jérôme, QC<br><sub>+3 more</sub> | Winter 2027<br><sub>4 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/234896d2-68c3-4437-bc8e-a61733d0ba2a?from=github-finance) |
 
 <p align="right"><sub><a href="#canadian-finance-internships-2027">Back to top</a></sub></p>
 
