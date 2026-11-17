@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**209 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**212 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,12 +13,12 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 |:--|--:|--:|
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 0 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 1 |
-| [Investments & Asset Management](#investments--asset-management) | 21 | 2 |
+| [Investments & Asset Management](#investments--asset-management) | 22 | 3 |
 | [Accounting, Audit & Tax](#accounting-audit--tax) | 115 | 12 |
-| [Corporate Finance](#corporate-finance) | 18 | 3 |
+| [Corporate Finance](#corporate-finance) | 19 | 4 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 10 | 3 |
 | [Risk & Compliance](#risk--compliance) | 28 | 3 |
-| [Actuarial & Insurance](#actuarial--insurance) | 12 | 5 |
+| [Actuarial & Insurance](#actuarial--insurance) | 13 | 6 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
 
@@ -47,11 +47,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Investments & Asset Management
 
-<sub>21 open roles</sub>
+<sub>22 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
-| **Manulife** | General Accounts, Co-op | Toronto, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/f2f61a22-7601-4b76-9bbf-d2be4c3370d4?from=github-finance) |
+| **Manulife** | Wealth Investment Office, Intern | Toronto, ON | Summer 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/246328db-ab0b-4ecd-bf35-0782cb2b280d?from=github-finance) |
+| ↳ | General Accounts, Co-op | Toronto, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/f2f61a22-7601-4b76-9bbf-d2be4c3370d4?from=github-finance) |
 | **Dawson** | Future Student Opportunities, Intern | Toronto, ON<br><sub>Hybrid</sub> | — | Nov 12 | [Apply ↗](https://coawp.com/go/7d6f92ec-6f81-4a07-852d-1fd9c7a816f6?from=github-finance) |
 | **Manulife** | Canadian Real Estate Finance Group, Co-op | Toronto, ON | Summer 2027 | Nov 2 | [Apply ↗](https://coawp.com/go/7f6b2feb-5de6-4751-a444-048f1c952c07?from=github-finance) |
 | **Scotiabank** | Wealth Management – Research, Co-op | Montréal, QC | Summer 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/83f5eb3b-d533-4749-8671-19e476b5245d?from=github-finance) |
@@ -201,11 +202,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Corporate Finance
 
-<sub>18 open roles</sub>
+<sub>19 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
-| **BMO** | Analyst – CM Treasury, Co-op | Toronto, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/80d00efc-2dc7-4c5a-9b76-02fbb058cb11?from=github-finance) |
+| **BMO** | Analyst – Liquidity & Funding Management, Co-op | Toronto, ON | Winter 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/724ff08a-d2fe-4c72-97cb-540f6968a842?from=github-finance) |
+| ↳ | Analyst – CM Treasury, Co-op | Toronto, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/80d00efc-2dc7-4c5a-9b76-02fbb058cb11?from=github-finance) |
 | **Grainger Canada** | Finance Analyst, Intern | Thornhill, ON | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/3b7f3537-bfa8-4bf5-a4a3-46f118e5e5a9?from=github-finance) |
 | **Hannover Re** | Finance, Intern | Hamilton, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/4a05f730-e4f8-44b3-a7c8-d856a0779640?from=github-finance) |
 | **Epiroc** | Treasury, Intern | Prince Edward Island | — | Nov 5 | [Apply ↗](https://coawp.com/go/b22ebd34-26ab-4c9a-b148-56a02c7e2b80?from=github-finance) |
@@ -284,11 +286,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Actuarial & Insurance
 
-<sub>12 open roles</sub>
+<sub>13 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Sun Life** | Disability Case Associate, Intern | Waterloo, ON | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/9190a6a9-1c74-46bc-a861-d9040bfe2f6d?from=github-finance) |
+| **Zurich Canada** | Programs, Intern | Montréal, QC | 8 months | Nov 16 | [Apply ↗](https://coawp.com/go/7baf6099-ff33-4277-99d4-61416e8bce94?from=github-finance) |
 | **TD** | Actuarial, Co-op<br><sub>Requires French</sub> | Toronto, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/b2f33dd0-2c99-404a-a188-f36f5c0057aa?from=github-finance) |
 | **Hannover Re** | Underwriting, Intern | Hamilton, ON | 2 months | Nov 12 | [Apply ↗](https://coawp.com/go/a569c20e-50ab-4ca0-8947-3649f55c6474?from=github-finance) |
 | **HUB International** | Investment Consulting, Intern | Toronto, ON<br><sub>Hybrid</sub> | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/6f70cdb7-d0ce-43d8-b2bf-27d91a5d5ec6?from=github-finance) |
