@@ -14,7 +14,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 0 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 21 | 2 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 121 | 11 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 121 | 12 |
 | [Corporate Finance](#corporate-finance) | 20 | 3 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 10 | 3 |
 | [Risk & Compliance](#risk--compliance) | 27 | 2 |
@@ -91,6 +91,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **DMCL** | Staff Accountant – US Tax, Intern | Vancouver, BC | Winter 2027 | Nov 12 | [Apply ↗](https://coawp.com/go/c5055bfc-836c-43f0-b46d-4ed7a7deb7b2?from=github-finance) |
 | **McCarthy Tetrault** | Finance, Intern | Toronto, ON | 4 months | Nov 12 | [Apply ↗](https://coawp.com/go/f9594c3f-aa8a-4b57-ba02-0ecd3e382e95?from=github-finance) |
 | **BMW Group (BMW Canada)** | Tax and Accounting, Intern | Richmond Hill, ON | 12 months | Nov 11 | [Apply ↗](https://coawp.com/go/39d5b013-084e-4697-a323-bfc910c2ab55?from=github-finance) |
+| **Region of Waterloo** | Corporate Finance, Intern | Kitchener, ON | Winter 2027<br><sub>4 months</sub> | Nov 11 | [Apply ↗](https://coawp.com/go/6726ba82-7f0b-4dc9-a36c-fdb813ab2309?from=github-finance) |
 | **Welch LLP** | Accounting, Co-op | Ottawa, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 months</sub> | Nov 11 | [Apply ↗](https://coawp.com/go/0d3322dc-e8ae-4879-997c-dd85aed76f4b?from=github-finance) |
 | **CDPQ Infra** | Finance – REM, Intern<br><sub>Requires French</sub> | Montréal, QC | — | Nov 10 | [Apply ↗](https://coawp.com/go/18dfebe6-7075-482f-ab19-b68b1727902c?from=github-finance) |
 | **SMS Equipment** | Accounts Payable, Intern | Alberta | 3 months | Nov 10 | [Apply ↗](https://coawp.com/go/b4a517c3-7264-4b01-842c-825a2cd7004e?from=github-finance) |
@@ -153,7 +154,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **DMCL** | Staff Accountant – Public Company Audit, Intern | Vancouver, BC | — | Oct 19 | [Apply ↗](https://coawp.com/go/383c8a44-b087-4174-b32c-b91c904c0fef?from=github-finance) |
 | **MNP** | Accounting Technician – Assurance & Accounting, Co-op | Summerside, PE | — | Oct 19 | [Apply ↗](https://coawp.com/go/9d53e4d9-009d-4a47-9677-744a0fc1a32b?from=github-finance) |
 | **Citi** | Functions – Internal Audit, Summer Analyst | Mississauga, ON<br><sub>Hybrid</sub> | Summer 2027<br><sub>4 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/5da0bb70-0f98-4a82-b2d2-52fec0b8b912?from=github-finance) |
-| **Government of Nova Scotia** | Accounting, Co-op | Halifax, NS | Winter 2027<br><sub>4 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/efabc0a5-f2e7-4cd7-a3df-04dd542afdc9?from=github-finance) |
 | **Nutrien** | OTC Cash Handling, Co-op | Saskatoon, SK | Winter 2027<br><sub>8 or 12 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/7de7d555-b83e-44c6-a0e5-4a20fd78e805?from=github-finance) |
 | **MNP** | Accounting Technician – Assurance & Accounting, Co-op | Stratford, PE | — | Oct 14 | [Apply ↗](https://coawp.com/go/5ef0cca6-b0e5-4b72-8d4d-a3837e972e1a?from=github-finance) |
 | **Creative Energy** | Accounting, Co-op | Vancouver, BC | 4 months | Oct 13 | [Apply ↗](https://coawp.com/go/9b526551-df3b-4b35-98db-ebb9f4ca1966?from=github-finance) |
