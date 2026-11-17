@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**213 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**210 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -14,7 +14,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 0 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 21 | 2 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 120 | 12 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 117 | 12 |
 | [Corporate Finance](#corporate-finance) | 19 | 3 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 10 | 3 |
 | [Risk & Compliance](#risk--compliance) | 27 | 2 |
@@ -77,7 +77,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>120 open roles</sub>
+<sub>117 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -99,8 +99,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **MNP** | Accountant, Assurance and Accounting, Co-op | Walkerton, ON | — | Nov 10 | [Apply ↗](https://coawp.com/go/65ced720-15a7-4c8b-b5e6-60028198b72b?from=github-finance) |
 | ↳ | Accountant – Assurance and Accounting, Co-op | Walkerton, ON | Fall 2027 | Nov 10 | [Apply ↗](https://coawp.com/go/11c8b622-59a6-4650-909f-574d82e0fec4?from=github-finance) |
 | ↳ | Accountant – Assurance and Accounting, Co-op | Hanover, ON | Summer 2027 | Nov 10 | [Apply ↗](https://coawp.com/go/a8d849e2-8247-479f-a333-e357f0829d4b?from=github-finance) |
-| **BDO Canada** | Canadian Tax Services, Co-op<br><sub>Requires French</sub> | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/62f49dc6-17de-437b-854f-9f3480c323e4?from=github-finance) |
-| ↳ | FR&I, Co-op | Ottawa, ON<br>Rockland, BC<br><sub>+2 more</sub> | Winter 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/a4d38c5d-f240-40ac-be15-6996346c69a6?from=github-finance) |
+| **BDO Canada** | FR&I, Co-op | Ottawa, ON<br>Rockland, BC<br><sub>+2 more</sub> | Winter 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/a4d38c5d-f240-40ac-be15-6996346c69a6?from=github-finance) |
 | **Clark Builders** | Accounting, Intern | Edmonton, AB | Winter 2027<br><sub>8 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/58a9efd4-1727-4fc7-879f-91d7a200b2ac?from=github-finance) |
 | **Manulife** | Accounting Analyst, Co-op | Toronto, ON | Winter 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/3dde1777-8bb1-4b4b-b1fc-d7f2b7e176ae?from=github-finance) |
 | **MNP** | Assurance and Accounting, Co-op | Terrace, BC | — | Nov 9 | [Apply ↗](https://coawp.com/go/d63b5601-1dc7-4e90-8c36-ce349909a672?from=github-finance) |
@@ -122,7 +121,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Saputo** | Internal Audit, Intern<br><sub>Requires French</sub> | Montréal, QC<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/5df8b2a0-3ebf-4407-a81b-03ee78ae167b?from=github-finance) |
 | **Heroux-Devtek** | Tax, Intern<br><sub>Requires French</sub> | Longueuil, QC | — | Nov 3 | [Apply ↗](https://coawp.com/go/a5105358-f9b4-427a-861d-3daf5349860d?from=github-finance) |
 | **Ryan** | Complex Property Tax, Intern | Calgary, AB | Summer 2027 | Nov 2 | [Apply ↗](https://coawp.com/go/0918e0f1-c5b7-4f53-b393-c991528630d3?from=github-finance) |
-| **BDO Canada** | Personal Debt Solutions, Co-op | Halifax, NS | Winter 2027<br><sub>4 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/79c904df-f26d-445a-bc60-bef95650d1e4?from=github-finance) |
 | **Mitel** | Accounting, Co-op | Ottawa, ON | — | Nov 1 | [Apply ↗](https://coawp.com/go/cb9d5d07-ce06-41a0-bcf2-f47b246c558d?from=github-finance) |
 | **Nutrien** | Retail – Lease Accounting, Co-op | Saskatoon, SK | Summer 2027<br><sub>12 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/f7769b09-99ac-4ff2-b9f9-8b68d2c8293d?from=github-finance) |
 | **Ryan** | Customs Duty, Intern | Mississauga, ON | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/563652c0-45e4-4293-92e5-adab82268540?from=github-finance) |
@@ -143,7 +141,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Tax, Intern | Val-d'Or, QC<br>Canada<br><sub>+3 more</sub> | — | Oct 25 | [Apply ↗](https://coawp.com/go/fb8e5851-529c-488a-991c-0966c8c424d0?from=github-finance) |
 | **Beedie** | Corporate Accounting, Co-op | Burnaby, BC | Winter 2027<br><sub>8 months</sub> | Oct 23 | [Apply ↗](https://coawp.com/go/e59701ad-1d7c-49b6-8031-22316ae32243?from=github-finance) |
 | **CAPREIT** | Financial Analyst, Co-op | Toronto, ON | Winter 2027 | Oct 23 | [Apply ↗](https://coawp.com/go/a577b1e4-ce12-479f-b670-5507dd7cd5bc?from=github-finance) |
-| **AltaLink** | Capital Project Performance, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/5488045e-6354-46c0-a147-38ab9f1c9b6c?from=github-finance) |
 | **MNP** | Accountant – Assurance and Accounting, Co-op | Orangeville, ON | Summer 2027 | Oct 22 | [Apply ↗](https://coawp.com/go/76812e8c-0a36-4f64-af74-06f5c7dd7220?from=github-finance) |
 | **Ryan** | Complex Property Tax, Intern | Vancouver, BC | Summer 2027 | Oct 21 | [Apply ↗](https://coawp.com/go/72a6debc-a98c-4189-bba0-8e7842945e23?from=github-finance) |
 | ↳ | Tax Consulting, Intern | Mississauga, ON<br>Montréal, QC<br><sub>+3 more</sub> | Summer 2027 | Oct 21 | [Apply ↗](https://coawp.com/go/ecc31e0c-012e-424e-a341-83e8314b1e04?from=github-finance) |
