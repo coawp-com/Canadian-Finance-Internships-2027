@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**223 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**217 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -14,10 +14,10 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 0 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 21 | 2 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 125 | 12 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 122 | 12 |
 | [Corporate Finance](#corporate-finance) | 20 | 3 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 10 | 3 |
-| [Risk & Compliance](#risk--compliance) | 30 | 2 |
+| [Risk & Compliance](#risk--compliance) | 27 | 2 |
 | [Actuarial & Insurance](#actuarial--insurance) | 12 | 5 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
@@ -77,7 +77,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>125 open roles</sub>
+<sub>122 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -112,9 +112,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Fleetway** | Finance, Co-op | Saint John, NB | Summer 2027 | Nov 6 | [Apply ↗](https://coawp.com/go/a0da4f5c-a223-4822-85bf-2fd4f27dd347?from=github-finance) |
 | **J.D. Irving** | Finance, Co-op | Saint John, NB | Summer 2027 | Nov 6 | [Apply ↗](https://coawp.com/go/d7660ecb-cc0e-4541-99f1-e1b5b5c409c3?from=github-finance) |
 | **PCL Construction** | Accounting, Intern | Oakville, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/12d5b7b8-21d7-4fbb-b42d-10ec3c1c92a4?from=github-finance) |
-| **PETRONAS Canada** | Accounts Payable, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/6889adaa-0042-4308-a628-347c9a801ae9?from=github-finance) |
-| ↳ | Finance – Accounts and Commercial, Intern | Calgary, AB | Summer 2027<br><sub>5 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/b5a91541-8fb8-414e-a829-cdceb2f142b6?from=github-finance) |
-| ↳ | Marketing Accounting, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/25df081c-25f3-42c4-93b1-ba7846218f02?from=github-finance) |
 | **Volvo Group (Nova Bus, Prevost, Volvo Trucks Canada)** | Taxation, Intern<br><sub>Requires French</sub> | Sainte-Foy, QC | Winter 2027 | Nov 5 | [Apply ↗](https://coawp.com/go/2df08b95-8528-4405-9351-b3c69dccf4ac?from=github-finance) |
 | **MNP** | Accountant – Assurance and Accounting, Co-op | Sarnia, ON | Winter 2028 | Nov 5 | [Apply ↗](https://coawp.com/go/37c044d8-8afd-4c10-89a2-22b02a1fa256?from=github-finance) |
 | ↳ | Accountant – Assurance and Accounting, Co-op | Strathroy, ON | Fall 2027 | Nov 5 | [Apply ↗](https://coawp.com/go/44f02f06-153b-4c0d-91d3-02f04e70aff3?from=github-finance) |
@@ -259,7 +256,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Risk & Compliance
 
-<sub>30 open roles</sub>
+<sub>27 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -268,9 +265,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **EQ Bank** | Stress Testing – Risk Management, Intern | Toronto, ON<br><sub>Hybrid</sub> | — | Nov 9 | [Apply ↗](https://coawp.com/go/aff7de6d-1157-4ee7-892b-ea3c99af6a49?from=github-finance) |
 | **TMX Group** | Enterprise Compliance, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 8 | [Apply ↗](https://coawp.com/go/29423c52-1623-4b5f-a34b-4579509f9760?from=github-finance) |
 | **PCL Construction** | HSE, Intern | Oakville, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/c027f6ed-745b-413b-8680-4954c47646d3?from=github-finance) |
-| **PETRONAS Canada** | Enterprise Risk Management, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/e3c394ef-a828-4ac9-afcd-33497937d09e?from=github-finance) |
-| ↳ | Operations Assurance, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/2dd3d010-0b17-45b2-850d-fbe1da1a68c2?from=github-finance) |
-| ↳ | Trading Risk, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/8defeb9a-ced8-4d1a-9c24-8fd013905e19?from=github-finance) |
 | **PSP Investments** | Business and Technology Governance, Intern<br><sub>Requires French</sub> | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/7a01ac59-52c8-4817-b1ab-61dc3bbe39cd?from=github-finance) |
 | **ABB** | Environment, Health & Safety, Intern<br><sub>Requires French</sub> | Québec, QC | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/9335cbf8-2fc6-42b4-b28e-cbd13e389c5b?from=github-finance) |
 | **BMO** | First Nations /​ Inuit /​ Métis – Commercial Banking Intern, Summer 2027 (Co-op/​Internship) - 4 months | Winnipeg, MB | Summer 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/d3eede7d-6540-4f3f-a30e-f140ccaaa94e?from=github-finance) |
