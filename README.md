@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**206 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**207 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -14,7 +14,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 2 | 0 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 21 | 3 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 117 | 11 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 118 | 12 |
 | [Corporate Finance](#corporate-finance) | 15 | 3 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 9 | 3 |
 | [Risk & Compliance](#risk--compliance) | 29 | 4 |
@@ -76,10 +76,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>117 open roles</sub>
+<sub>118 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Spartan Controls** | Accounting, Co-op | Calgary, AB | Winter 2027<br><sub>12 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/db8143f3-1b3d-403b-ab94-095308332e37?from=github-finance) |
 | **Kiewit** | Finance Analyst, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/5209ff05-ba0f-4d11-88f5-35c1a4077ffb?from=github-finance) |
 | **KPMG** | Opportunities in Audit, Co-op | Hamilton, ON<br>Oakville, ON | Fall 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/3ec2b75b-0944-46bc-8acf-d8174612bc72?from=github-finance) |
 | ↳ | CPA Opportunities in Audit, Co-op | Toronto, ON<br>Vaughan, ON | Summer, Fall 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/a9830f05-d0e6-4706-b908-8e48148b7caa?from=github-finance) |
