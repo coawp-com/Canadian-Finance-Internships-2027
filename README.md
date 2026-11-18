@@ -15,7 +15,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 22 | 4 |
 | [Accounting, Audit & Tax](#accounting-audit--tax) | 117 | 14 |
-| [Corporate Finance](#corporate-finance) | 18 | 3 |
+| [Corporate Finance](#corporate-finance) | 18 | 4 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 10 | 3 |
 | [Risk & Compliance](#risk--compliance) | 30 | 5 |
 | [Actuarial & Insurance](#actuarial--insurance) | 11 | 5 |
@@ -208,6 +208,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Kinectrics** | Business – CFO Office, Co-op | Toronto, ON | Winter 2027<br><sub>8 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/d4975522-9667-4c54-a947-f468a45cc475?from=github-finance) |
 | **BMO** | Analyst – CM Treasury, Co-op | Toronto, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/80d00efc-2dc7-4c5a-9b76-02fbb058cb11?from=github-finance) |
 | **Grainger Canada** | Finance Analyst, Intern | Thornhill, ON | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/3b7f3537-bfa8-4bf5-a4a3-46f118e5e5a9?from=github-finance) |
 | **Hannover Re** | Finance, Intern | Hamilton, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/4a05f730-e4f8-44b3-a7c8-d856a0779640?from=github-finance) |
@@ -221,7 +222,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Finance Business Partner, Intern | Mississauga, ON | Winter 2027<br><sub>8 months</sub> | Oct 8 | [Apply ↗](https://coawp.com/go/4fcdac75-c43d-4685-8530-1b3f385294b7?from=github-finance) |
 | ↳ | Manufacturing Engineering, Intern | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 8 | [Apply ↗](https://coawp.com/go/fef00072-1790-4dc2-85d6-3da803f19691?from=github-finance) |
 | ↳ | Manufacturing Engineering, Intern | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 8 | [Apply ↗](https://coawp.com/go/645b01e4-1a80-46bb-adf5-2dac763be647?from=github-finance) |
-| **MDA Space** | Corporate Finance, Intern | Brampton, ON | Winter 2027<br><sub>8 months</sub> | Oct 2 | [Apply ↗](https://coawp.com/go/db79df14-99bf-4955-a89d-9c45269696b3?from=github-finance) |
 | **Colliers** | Intern | Edmonton, AB | Winter, Fall 2027 | Sep 24 | [Apply ↗](https://coawp.com/go/fefabd01-4597-4130-97e8-59f7ab6020aa?from=github-finance) |
 | **StandardAero** | Finance, Intern | Winnipeg, MB | Summer 2027 | Sep 22 | [Apply ↗](https://coawp.com/go/e6b703fc-75bb-49b1-a055-4f152215bbdb?from=github-finance) |
 | **Capital Power** | Investor Relations, Intern | Calgary, AB | Summer 2027 | Sep 21 | [Apply ↗](https://coawp.com/go/33112fe9-4423-461b-b793-159bec2a98ce?from=github-finance) |
