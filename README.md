@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**218 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**219 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,9 +12,9 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 1 |
-| [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 3 | 2 |
+| [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 22 | 4 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 116 | 12 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 118 | 14 |
 | [Corporate Finance](#corporate-finance) | 15 | 3 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 9 | 3 |
 | [Risk & Compliance](#risk--compliance) | 36 | 11 |
@@ -36,12 +36,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Investment Banking & Capital Markets
 
-<sub>3 open roles</sub>
+<sub>2 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **CIBC** | Investment Banking Analyst – Energy & Infrastructure, Intern | Calgary, AB | Summer 2028<br><sub>4 months</sub> | Nov 15 | [Apply ↗](https://coawp.com/go/1dc2e477-ddee-4709-94ff-1b8ee23daa30?from=github-finance) |
-| **TD** | Intern/​ Co-op Winter 2027 | Toronto, ON | Winter 2027 | Nov 12 | [Apply ↗](https://coawp.com/go/73331c33-73a3-45e5-9708-7804afcf6d45?from=github-finance) |
 | **Agentis Capital** | Investment Banking Winter Analyst – Infrastructure M&A Advisory | Toronto, ON<br>Vancouver, BC | Winter 2027<br><sub>4 months</sub> | Jun 29 | [Apply ↗](https://coawp.com/go/22a2d153-9bdd-40b8-8a90-bfac13962ebb?from=github-finance) |
 
 <p align="right"><sub><a href="#canadian-finance-internships-2027">Back to top</a></sub></p>
@@ -79,10 +78,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>116 open roles</sub>
+<sub>118 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **ERCO Worldwide** | Tax Analyst, Intern | Mississauga, ON | Summer 2027<br><sub>4 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/25973e22-b268-40a1-85d5-3a263b786fc0?from=github-finance) |
+| **Legislative Assembly of British Columbia** | Financial Services, Co-op | Victoria, BC | — | Nov 17 | [Apply ↗](https://coawp.com/go/0db99ece-a13b-4366-be70-4af7572cd46a?from=github-finance) |
 | **Spartan Controls** | Accounting, Co-op | Calgary, AB | Winter 2027<br><sub>12 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/db8143f3-1b3d-403b-ab94-095308332e37?from=github-finance) |
 | **Kiewit** | Finance Analyst, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/5209ff05-ba0f-4d11-88f5-35c1a4077ffb?from=github-finance) |
 | **KPMG** | Opportunities in Audit, Co-op | Hamilton, ON<br>Oakville, ON | Fall 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/3ec2b75b-0944-46bc-8acf-d8174612bc72?from=github-finance) |
