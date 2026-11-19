@@ -14,10 +14,10 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 1 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 23 | 4 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 117 | 9 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 118 | 10 |
 | [Corporate Finance](#corporate-finance) | 15 | 1 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 9 | 0 |
-| [Risk & Compliance](#risk--compliance) | 35 | 10 |
+| [Risk & Compliance](#risk--compliance) | 34 | 10 |
 | [Actuarial & Insurance](#actuarial--insurance) | 13 | 5 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
@@ -79,10 +79,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>117 open roles</sub>
+<sub>118 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Kabam** | Accounting, Co-op | Vancouver, BC | — | Nov 19 | [Apply ↗](https://coawp.com/go/6e79f6c6-52b3-432d-ac52-9e0d42e6ad76?from=github-finance) |
 | **ERCO Worldwide** | Tax Analyst, Intern | Mississauga, ON | Summer 2027<br><sub>4 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/25973e22-b268-40a1-85d5-3a263b786fc0?from=github-finance) |
 | **Legislative Assembly of British Columbia** | Financial Services, Co-op | Victoria, BC | — | Nov 17 | [Apply ↗](https://coawp.com/go/0db99ece-a13b-4366-be70-4af7572cd46a?from=github-finance) |
 | **Spartan Controls** | Accounting, Co-op | Calgary, AB | Winter 2027<br><sub>12 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/db8143f3-1b3d-403b-ab94-095308332e37?from=github-finance) |
@@ -247,7 +248,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Risk & Compliance
 
-<sub>35 open roles</sub>
+<sub>34 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -282,7 +283,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Bombardier** | Archiving and Information Governance, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 8 | [Apply ↗](https://coawp.com/go/a74af88c-e867-4308-97d3-f579a47fa3dc?from=github-finance) |
 | ↳ | Information Archiving and Governance, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 8 | [Apply ↗](https://coawp.com/go/fdb60a02-a943-43ca-8a92-c0c3e0fcee38?from=github-finance) |
 | **Picton Mahoney Asset Management** | Compliance, Intern | Toronto, ON<br><sub>Hybrid</sub> | — | Oct 8 | [Apply ↗](https://coawp.com/go/82f71046-2e41-4276-94ea-67edf1a406e5?from=github-finance) |
-| **Bird Construction** | HSE Coordinator, Student | Mississauga, ON | Winter 2027<br><sub>4 months</sub> | Sep 28 | [Apply ↗](https://coawp.com/go/77e5fe21-cc26-4f06-b8ea-3c91bbb45895?from=github-finance) |
 | **EQ Bank** | Credit Risk, Intern | Toronto, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 months</sub> | Sep 15 | [Apply ↗](https://coawp.com/go/a3fcf899-fa94-4883-99a5-270a1737f109?from=github-finance) |
 | **Canadian Natural Resources** | Environmental Regulatory Compliance, Intern | Calgary, AB | Summer 2027<br><sub>4 or 8 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/c0cc9d15-5035-4e16-b1b8-e06d6f727612?from=github-finance) |
 | ↳ | Environmental Regulatory, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/4424c5f0-9092-4e21-872e-02de3b65246d?from=github-finance) |
