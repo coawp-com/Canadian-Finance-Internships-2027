@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**218 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**217 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -14,7 +14,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 1 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 23 | 4 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 118 | 9 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 117 | 9 |
 | [Corporate Finance](#corporate-finance) | 15 | 1 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 9 | 0 |
 | [Risk & Compliance](#risk--compliance) | 35 | 10 |
@@ -79,7 +79,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>118 open roles</sub>
+<sub>117 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -194,7 +194,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **MNP** | Accountant – Assurance and Accounting, Intern | Brockville, ON | Winter 2027 | Aug 11 | [Apply ↗](https://coawp.com/go/34209258-413d-4703-8856-cab86874db03?from=github-finance) |
 | ↳ | Accountant – Assurance and Accounting, Intern | Kingston, ON | Winter 2027 | Aug 11 | [Apply ↗](https://coawp.com/go/1ca6c576-e4ef-4501-99ec-9416f2d93476?from=github-finance) |
 | ↳ | Accountant – Assurance and Accounting, Intern | Kingston, ON | Fall 2027 | Aug 11 | [Apply ↗](https://coawp.com/go/416b1993-87cf-46c3-b739-6432d83a77bf?from=github-finance) |
-| ↳ | Accountant – Assurance and Accounting, Co-op | Markham, ON | Winter 2027<br><sub>4 or 8 months</sub> | Aug 7 | [Apply ↗](https://coawp.com/go/951f74bf-0c34-41b1-b160-0569bdb64daa?from=github-finance) |
 | ↳ | Assurance and Accounting, Co-op | Kamloops, BC | Winter 2028<br><sub>8 months</sub> | Aug 5 | [Apply ↗](https://coawp.com/go/e09915bd-88ef-4169-9ee4-15b9224a892e?from=github-finance) |
 | ↳ | Assurance and Accounting, Co-op | Prince George, BC | Winter 2028<br><sub>8 months</sub> | Aug 5 | [Apply ↗](https://coawp.com/go/5eca609c-f432-4f83-b8f0-e28936ca09c2?from=github-finance) |
 | ↳ | Assurance and Accounting, Co-op | Kelowna, BC | Winter 2028<br><sub>8 months</sub> | Aug 5 | [Apply ↗](https://coawp.com/go/0f829b27-35d3-4144-82c8-9aa000d42e2c?from=github-finance) |
