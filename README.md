@@ -58,8 +58,8 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Manulife** | Wealth Investment Office, Intern | Toronto, ON | Summer 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/246328db-ab0b-4ecd-bf35-0782cb2b280d?from=github-finance) |
 | **Dawson** | Future Student Opportunities, Intern | Toronto, ON<br><sub>Hybrid</sub> | — | Nov 12 | [Apply ↗](https://coawp.com/go/7d6f92ec-6f81-4a07-852d-1fd9c7a816f6?from=github-finance) |
 | **Manulife** | Canadian Real Estate Finance Group, Co-op | Toronto, ON | Summer 2027 | Nov 2 | [Apply ↗](https://coawp.com/go/7f6b2feb-5de6-4751-a444-048f1c952c07?from=github-finance) |
-| **FinDev Canada** | Junior Associate – Sustainable Infrastructure, Intern<br><sub>Requires French</sub> | Montréal, QC<br>Ottawa, ON | 12 months | Nov 1 | [Apply ↗](https://coawp.com/go/3de07133-3768-44a3-9fef-1afb61bb6d6a?from=github-finance) |
-| ↳ | Junior Associate – Sustainable Infrastructure, Intern<br><sub>Requires French</sub> | Montréal, QC<br>Ottawa, ON | 12 months | Nov 1 | [Apply ↗](https://coawp.com/go/16409fa9-ab47-4645-b509-67e7ca412225?from=github-finance) |
+| **FinDev Canada** | Junior Associate – Sustainable Infrastructure, Intern<br><sub>Requires French</sub> | Montréal, QC<br>Ottawa, ON | 12 months | Nov 1 | [Apply ↗](https://coawp.com/go/16409fa9-ab47-4645-b509-67e7ca412225?from=github-finance) |
+| ↳ | Junior Associate – Sustainable Infrastructure, Intern<br><sub>Requires French</sub> | Montréal, QC<br>Ottawa, ON | 12 months | Nov 1 | [Apply ↗](https://coawp.com/go/3de07133-3768-44a3-9fef-1afb61bb6d6a?from=github-finance) |
 | **Manulife** | Venture Capital, Co-op | Toronto, ON | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/86e7c7ad-07b8-4d9f-bbb2-ad4810e47111?from=github-finance) |
 | **Fengate** | Commercial/​Residential Asset Management, Intern | Toronto, ON<br><sub>Hybrid</sub> | Winter 2027 | Oct 28 | [Apply ↗](https://coawp.com/go/ea6d1286-1008-467f-8e6a-b4bad09cb088?from=github-finance) |
 | **Prologis** | Capital Deployment, Intern | Toronto, ON | — | Oct 27 | [Apply ↗](https://coawp.com/go/69804cd8-46b8-4640-9df2-b696b40c40af?from=github-finance) |
