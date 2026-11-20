@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**202 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**201 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -16,7 +16,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Investments & Asset Management](#investments--asset-management) | 20 | 5 |
 | [Accounting, Audit & Tax](#accounting-audit--tax) | 113 | 9 |
 | [Corporate Finance](#corporate-finance) | 13 | 1 |
-| [Banking & Wealth Advisory](#banking--wealth-advisory) | 6 | 0 |
+| [Banking & Wealth Advisory](#banking--wealth-advisory) | 5 | 0 |
 | [Risk & Compliance](#risk--compliance) | 31 | 7 |
 | [Actuarial & Insurance](#actuarial--insurance) | 14 | 6 |
 
@@ -220,13 +220,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Banking & Wealth Advisory
 
-<sub>6 open roles</sub>
+<sub>5 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **RBC** | Client Advisor, Intern | London, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/3f545b5a-3282-458a-ac73-3763ec16a419?from=github-finance) |
 | ↳ | Client Advisor, Intern | Brantford, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/62b11956-d794-4e52-bff9-3742824d22c5?from=github-finance) |
-| **TD** | Commercial Banking, Co-op | Victoria, BC | Winter 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/f25631d2-e3d0-4548-992d-903075438e9c?from=github-finance) |
 | **BMO** | Portfolio Assistant, Co-op<br><sub>Requires French</sub> | Brossard, QC | Winter 2027<br><sub>4 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/5cd5d6a2-55cb-49d7-a8cc-0a6b3d372e63?from=github-finance) |
 | **Scotiabank** | ASPIRE Commercial Banking – Agriculture, Co-op | Calgary, AB | Summer 2027<br><sub>4 or 8 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/0e198242-8a21-40f8-9840-bc71039f2125?from=github-finance) |
 | **Investissement Québec** | Account Director – Regional Network, Intern<br><sub>Requires French</sub> | Saguenay, QC | Winter 2027<br><sub>4 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/ca72b4a3-9bcf-44a0-a9ab-e451607f0147?from=github-finance) |
