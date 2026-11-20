@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**201 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**204 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -14,9 +14,9 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 2 | 1 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 3 | 2 |
 | [Investments & Asset Management](#investments--asset-management) | 20 | 5 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 113 | 9 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 114 | 10 |
 | [Corporate Finance](#corporate-finance) | 13 | 1 |
-| [Banking & Wealth Advisory](#banking--wealth-advisory) | 5 | 0 |
+| [Banking & Wealth Advisory](#banking--wealth-advisory) | 7 | 1 |
 | [Risk & Compliance](#risk--compliance) | 31 | 7 |
 | [Actuarial & Insurance](#actuarial--insurance) | 14 | 6 |
 
@@ -76,10 +76,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>113 open roles</sub>
+<sub>114 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Saputo** | Accounting Coordinator, Intern | Brandon, MB | Summer 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/814f0063-3fc2-4e91-bbd1-bb6e71413d33?from=github-finance) |
 | **Kabam** | Accounting, Co-op | Vancouver, BC | — | Nov 19 | [Apply ↗](https://coawp.com/go/6e79f6c6-52b3-432d-ac52-9e0d42e6ad76?from=github-finance) |
 | **ERCO Worldwide** | Tax Analyst, Intern | Mississauga, ON | Summer 2027<br><sub>4 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/25973e22-b268-40a1-85d5-3a263b786fc0?from=github-finance) |
 | **Legislative Assembly of British Columbia** | Financial Services, Co-op | Victoria, BC | — | Nov 17 | [Apply ↗](https://coawp.com/go/0db99ece-a13b-4366-be70-4af7572cd46a?from=github-finance) |
@@ -220,13 +221,15 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Banking & Wealth Advisory
 
-<sub>5 open roles</sub>
+<sub>7 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **TD** | Commercial Banking, Co-op | Richmond, BC | Winter 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/ded2b619-e1f2-49da-9e2b-5fba050c1de7?from=github-finance) |
 | **RBC** | Client Advisor, Intern | London, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/3f545b5a-3282-458a-ac73-3763ec16a419?from=github-finance) |
 | ↳ | Client Advisor, Intern | Brantford, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/62b11956-d794-4e52-bff9-3742824d22c5?from=github-finance) |
 | **BMO** | Portfolio Assistant, Co-op<br><sub>Requires French</sub> | Brossard, QC | Winter 2027<br><sub>4 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/5cd5d6a2-55cb-49d7-a8cc-0a6b3d372e63?from=github-finance) |
+| **RBC** | Data Analyst – Wealth Management, Intern | Toronto, ON | Winter 2027 | Nov 5 | [Apply ↗](https://coawp.com/go/0bae8f71-aa94-45fd-80a5-65d9420c49a5?from=github-finance) |
 | **Scotiabank** | ASPIRE Commercial Banking – Agriculture, Co-op | Calgary, AB | Summer 2027<br><sub>4 or 8 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/0e198242-8a21-40f8-9840-bc71039f2125?from=github-finance) |
 | **Investissement Québec** | Account Director – Regional Network, Intern<br><sub>Requires French</sub> | Saguenay, QC | Winter 2027<br><sub>4 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/ca72b4a3-9bcf-44a0-a9ab-e451607f0147?from=github-finance) |
 
