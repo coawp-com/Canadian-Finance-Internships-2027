@@ -14,7 +14,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 1 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 3 | 2 |
 | [Investments & Asset Management](#investments--asset-management) | 20 | 5 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 114 | 10 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 114 | 9 |
 | [Corporate Finance](#corporate-finance) | 14 | 1 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 8 | 0 |
 | [Risk & Compliance](#risk--compliance) | 33 | 9 |
