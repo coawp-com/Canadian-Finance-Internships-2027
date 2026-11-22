@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**199 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**198 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -17,7 +17,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Accounting, Audit & Tax](#accounting-audit--tax) | 116 | 12 |
 | [Corporate Finance](#corporate-finance) | 12 | 2 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 5 | 0 |
-| [Risk & Compliance](#risk--compliance) | 29 | 7 |
+| [Risk & Compliance](#risk--compliance) | 28 | 7 |
 | [Actuarial & Insurance](#actuarial--insurance) | 13 | 6 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
@@ -235,7 +235,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Risk & Compliance
 
-<sub>29 open roles</sub>
+<sub>28 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -254,7 +254,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **BMO** | First Nations /​ Inuit /​ Métis – Commercial Banking Intern, Summer 2027 (Co-op/​Internship) - 4 months | Winnipeg, MB | Summer 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/d3eede7d-6540-4f3f-a30e-f140ccaaa94e?from=github-finance) |
 | **Manulife** | Commercial Mortgage, Co-op<br><sub>Requires French</sub> | Montréal, QC | Summer 2027 | Nov 2 | [Apply ↗](https://coawp.com/go/749f0056-272e-4826-9cbd-27e57bf53416?from=github-finance) |
 | **Nutrien** | Emergency Preparedness, Intern | Saskatoon, SK | 4 months | Nov 1 | [Apply ↗](https://coawp.com/go/4a6a34de-2339-4fbb-a5a6-42a18954a407?from=github-finance) |
-| **Scotiabank** | Corporate Banking – Credit Analytics Group (CAG), Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/4b02d327-57b3-46a9-afd8-b9115e9377b3?from=github-finance) |
 | **BMW Group (BMW Canada)** | Compliance, Intern | Richmond Hill, ON | 12 months | Oct 27 | [Apply ↗](https://coawp.com/go/136f0503-bf03-4b62-aa60-d2e14d15f421?from=github-finance) |
 | **Eclipse Automation** | Health, Safety and Environment (HSE), Co-op | Cambridge, ON | — | Oct 20 | [Apply ↗](https://coawp.com/go/529ab247-8390-4a6c-b96f-6ef04149921d?from=github-finance) |
 | **S&P Global** | Ratings Analytical, Intern | Toronto, ON<br><sub>Hybrid</sub> | — | Oct 19 | [Apply ↗](https://coawp.com/go/407a8647-ccee-4262-98a7-cf09715a28eb?from=github-finance) |
