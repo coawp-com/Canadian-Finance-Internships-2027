@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**194 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**195 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -14,7 +14,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 2 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 3 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 17 | 4 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 116 | 8 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 117 | 9 |
 | [Corporate Finance](#corporate-finance) | 13 | 1 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 5 | 0 |
 | [Risk & Compliance](#risk--compliance) | 24 | 3 |
@@ -74,10 +74,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>116 open roles</sub>
+<sub>117 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Heroux-Devtek** | Financial Analyst, Intern | Toronto, ON | 6 months | Nov 23 | [Apply ↗](https://coawp.com/go/fe743156-c1b4-47e2-8ce0-d9e52bf2407b?from=github-finance) |
 | **MNP** | Accountant – Assurance and Accounting, Co-op | Bathurst, NB | — | Nov 23 | [Apply ↗](https://coawp.com/go/22c5e9b4-5585-4ed8-b1e5-d5f3a55d04e0?from=github-finance) |
 | **Hootsuite** | Accounting, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/403f62e4-243c-49d8-9d9d-0873b00b24d5?from=github-finance) |
 | **Saputo** | Accounting Coordinator, Intern | Brandon, MB | Summer 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/814f0063-3fc2-4e91-bbd1-bb6e71413d33?from=github-finance) |
