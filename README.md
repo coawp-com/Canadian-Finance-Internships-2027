@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**192 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**194 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -14,8 +14,8 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 2 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 3 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 17 | 4 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 115 | 7 |
-| [Corporate Finance](#corporate-finance) | 12 | 1 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 116 | 8 |
+| [Corporate Finance](#corporate-finance) | 13 | 1 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 5 | 0 |
 | [Risk & Compliance](#risk--compliance) | 24 | 3 |
 | [Actuarial & Insurance](#actuarial--insurance) | 13 | 5 |
@@ -74,10 +74,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>115 open roles</sub>
+<sub>116 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **MNP** | Accountant – Assurance and Accounting, Co-op | Bathurst, NB | — | Nov 23 | [Apply ↗](https://coawp.com/go/22c5e9b4-5585-4ed8-b1e5-d5f3a55d04e0?from=github-finance) |
 | **Hootsuite** | Accounting, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/403f62e4-243c-49d8-9d9d-0873b00b24d5?from=github-finance) |
 | **Saputo** | Accounting Coordinator, Intern | Brandon, MB | Summer 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/814f0063-3fc2-4e91-bbd1-bb6e71413d33?from=github-finance) |
 | ↳ | Payroll & Data Analytics, Intern | Saint-Laurent, QC<br>Montréal, QC | Summer 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/670db420-27b3-4c85-9333-16f23370a45f?from=github-finance) |
@@ -198,7 +199,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Corporate Finance
 
-<sub>12 open roles</sub>
+<sub>13 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -206,6 +207,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Kinectrics** | Business – CFO Office, Co-op | Toronto, ON | Winter 2027<br><sub>8 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/d4975522-9667-4c54-a947-f468a45cc475?from=github-finance) |
 | **Grainger Canada** | Finance Analyst, Intern | Thornhill, ON | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/3b7f3537-bfa8-4bf5-a4a3-46f118e5e5a9?from=github-finance) |
 | **Hannover Re** | Finance, Intern | Hamilton, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/4a05f730-e4f8-44b3-a7c8-d856a0779640?from=github-finance) |
+| **Sun Life** | Junior Financial Analyst, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/6552ffde-cab8-4855-b30f-0d0c91a101c2?from=github-finance) |
 | **Fengate** | Infrastructure Finance, Intern | Oakville, ON<br><sub>Hybrid</sub> | Winter 2027 | Oct 28 | [Apply ↗](https://coawp.com/go/67ca412a-3f43-4e65-bf57-12eed651e2fe?from=github-finance) |
 | **Heroux-Devtek** | Financial Analyst, Intern | Montréal, QC | — | Oct 22 | [Apply ↗](https://coawp.com/go/23674f04-4eed-4900-b0c4-a1a82ff05a79?from=github-finance) |
 | **Bombardier** | Manufacturing Engineering, Intern | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 8 | [Apply ↗](https://coawp.com/go/fef00072-1790-4dc2-85d6-3da803f19691?from=github-finance) |
