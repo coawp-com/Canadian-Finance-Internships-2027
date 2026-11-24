@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**191 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**192 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -17,7 +17,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Accounting, Audit & Tax](#accounting-audit--tax) | 116 | 8 |
 | [Corporate Finance](#corporate-finance) | 13 | 2 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 4 | 1 |
-| [Risk & Compliance](#risk--compliance) | 24 | 2 |
+| [Risk & Compliance](#risk--compliance) | 25 | 3 |
 | [Actuarial & Insurance](#actuarial--insurance) | 11 | 3 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
@@ -234,10 +234,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Risk & Compliance
 
-<sub>24 open roles</sub>
+<sub>25 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **BMO** | Corporate Banking Analyst, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/52e84735-4e3f-4a54-9b91-5446aba1dff9?from=github-finance) |
 | **RBC** | Projects – Investment Risk, Intern | Toronto, ON | Winter 2027 | Nov 22 | [Apply ↗](https://coawp.com/go/bb5e3355-d478-4105-9097-11f719129073?from=github-finance) |
 | **Canadian Natural Resources** | GHG & Air Regulatory, Intern | Calgary, AB | Fall 2027<br><sub>12 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/de2a6a7f-6ca3-41c4-b82a-aa6eaceb651e?from=github-finance) |
 | **AIMCo** | Risk Modelling, Co-op | Edmonton, AB<br>Calgary, AB<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/14189e28-75f3-46cd-8d8a-106bbb56d0c3?from=github-finance) |
