@@ -11,14 +11,14 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 2 |
+| [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 1 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 3 | 1 |
-| [Investments & Asset Management](#investments--asset-management) | 17 | 5 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 116 | 10 |
+| [Investments & Asset Management](#investments--asset-management) | 17 | 2 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 116 | 8 |
 | [Corporate Finance](#corporate-finance) | 14 | 2 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 6 | 1 |
-| [Risk & Compliance](#risk--compliance) | 24 | 4 |
-| [Actuarial & Insurance](#actuarial--insurance) | 11 | 5 |
+| [Risk & Compliance](#risk--compliance) | 24 | 2 |
+| [Actuarial & Insurance](#actuarial--insurance) | 11 | 3 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
 
