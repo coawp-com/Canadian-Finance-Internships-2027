@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**189 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**191 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -14,10 +14,10 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 1 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 3 | 1 |
 | [Investments & Asset Management](#investments--asset-management) | 16 | 2 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 115 | 9 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 116 | 10 |
 | [Corporate Finance](#corporate-finance) | 12 | 2 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 4 | 2 |
-| [Risk & Compliance](#risk--compliance) | 26 | 4 |
+| [Risk & Compliance](#risk--compliance) | 27 | 5 |
 | [Actuarial & Insurance](#actuarial--insurance) | 10 | 2 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
@@ -73,10 +73,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>115 open roles</sub>
+<sub>116 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Baker Tilly WM** | CPA Articling – Audit, Entertainment and New Media, Intern | Vancouver, BC<br><sub>Hybrid</sub> | Winter 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/3cdc0c39-4913-49d7-b12a-11476050ab19?from=github-finance) |
 | **Euna Solutions (Bonfire, Questica)** | Accounting Associate, Co-op | Oakville, ON<br><sub>Hybrid</sub> | — | Nov 23 | [Apply ↗](https://coawp.com/go/3a39a00b-06da-4343-85e2-872f8d9d4f11?from=github-finance) |
 | **KPMG** | Opportunities in Audit, Intern | Fredericton, NB<br>Moncton, NB<br><sub>+1 more</sub> | Summer 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/59c66b1d-1e9b-4192-a43c-716360826ce9?from=github-finance) |
 | **Heroux-Devtek** | Financial Analyst, Intern | Toronto, ON | 6 months | Nov 23 | [Apply ↗](https://coawp.com/go/fe743156-c1b4-47e2-8ce0-d9e52bf2407b?from=github-finance) |
@@ -231,11 +232,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Risk & Compliance
 
-<sub>26 open roles</sub>
+<sub>27 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **BMO** | Corporate Banking Analyst, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/52e84735-4e3f-4a54-9b91-5446aba1dff9?from=github-finance) |
+| **Manulife** | Standards Assurance and Risk Monitoring, Co-op | Toronto, ON | Summer 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/06bd2953-6e54-4f5a-9878-525c5f9a1715?from=github-finance) |
 | **RBC** | Internal Audit – Financial Crimes & AML, Intern | Halifax, NS | Winter 2027<br><sub>4 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/6043580d-a414-4c57-bb28-f64a2b46bce3?from=github-finance) |
 | ↳ | Retail Risk Modeling Projects, Intern | Toronto, ON | Winter 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/32eb23fa-d0b7-4225-8990-eacdfd313c7f?from=github-finance) |
 | **Canadian Natural Resources** | GHG & Air Regulatory, Intern | Calgary, AB | Fall 2027<br><sub>12 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/de2a6a7f-6ca3-41c4-b82a-aa6eaceb651e?from=github-finance) |
