@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**184 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**186 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -14,8 +14,8 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 1 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 3 | 0 |
 | [Investments & Asset Management](#investments--asset-management) | 15 | 1 |
-| [Accounting, Audit & Tax](#accounting-audit--tax) | 113 | 9 |
-| [Corporate Finance](#corporate-finance) | 12 | 2 |
+| [Accounting, Audit & Tax](#accounting-audit--tax) | 114 | 10 |
+| [Corporate Finance](#corporate-finance) | 13 | 3 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 3 | 1 |
 | [Risk & Compliance](#risk--compliance) | 26 | 4 |
 | [Actuarial & Insurance](#actuarial--insurance) | 9 | 1 |
@@ -72,11 +72,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Accounting, Audit & Tax
 
-<sub>113 open roles</sub>
+<sub>114 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Gerdau** | Accounting, Intern | Whitby, ON | 16 months | Nov 24 | [Apply ↗](https://coawp.com/go/90f0cd6c-cbe0-4b04-91bf-918e47c3dbc1?from=github-finance) |
+| **NETINT Technologies** | Accounting, Intern | Burnaby, BC | — | Nov 24 | [Apply ↗](https://coawp.com/go/06ceb2de-a3ec-4bd5-b0b9-648d54a209cc?from=github-finance) |
 | **Baker Tilly WM** | CPA Articling – Audit, Entertainment and New Media, Intern | Vancouver, BC<br><sub>Hybrid</sub> | Winter 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/3cdc0c39-4913-49d7-b12a-11476050ab19?from=github-finance) |
 | **Euna Solutions (Bonfire, Questica)** | Accounting Associate, Co-op | Oakville, ON<br><sub>Hybrid</sub> | — | Nov 23 | [Apply ↗](https://coawp.com/go/3a39a00b-06da-4343-85e2-872f8d9d4f11?from=github-finance) |
 | **KPMG** | Opportunities in Audit, Intern | Fredericton, NB<br>Moncton, NB<br><sub>+1 more</sub> | Summer 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/59c66b1d-1e9b-4192-a43c-716360826ce9?from=github-finance) |
@@ -194,10 +195,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Corporate Finance
 
-<sub>12 open roles</sub>
+<sub>13 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **BMW Group (BMW Canada)** | Controlling, Intern | Toronto, ON | — | Nov 24 | [Apply ↗](https://coawp.com/go/5bde9bb0-5afd-43bc-b577-144e37e73f07?from=github-finance) |
 | **Intact** | Corporate Finance, Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 22 | [Apply ↗](https://coawp.com/go/617699a1-3fce-4ec3-8486-91d2e561fa2a?from=github-finance) |
 | **Nutrien** | Potash Finance, Co-op | Saskatoon, SK | Summer 2027<br><sub>16 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/6f2fb816-a741-4b8f-90fa-d59ef048fd63?from=github-finance) |
 | **Kinectrics** | Business – CFO Office, Co-op | Toronto, ON | Winter 2027<br><sub>8 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/d4975522-9667-4c54-a947-f468a45cc475?from=github-finance) |
