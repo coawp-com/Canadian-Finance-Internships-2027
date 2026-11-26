@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**187 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**188 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 |:--|--:|--:|
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 0 |
 | [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 0 |
-| [Investments & Asset Management](#investments--asset-management) | 15 | 1 |
+| [Investments & Asset Management](#investments--asset-management) | 16 | 2 |
 | [Accounting, Audit & Tax](#accounting-audit--tax) | 113 | 8 |
 | [Corporate Finance](#corporate-finance) | 13 | 2 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 3 | 1 |
@@ -47,10 +47,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Investments & Asset Management
 
-<sub>15 open roles</sub>
+<sub>16 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **CIBC** | Global Markets Summer Associate – Equity Research | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/1f1321fc-ca88-447c-8a91-e66c623e4504?from=github-finance) |
 | **BDC** | Student | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Nov 22 | [Apply ↗](https://coawp.com/go/1e17f70f-94af-4946-8a1e-96b1b9f920e7?from=github-finance) |
 | **Picton Mahoney Asset Management** | Equity Research, Intern | Toronto, ON | Winter 2027 | Nov 18 | [Apply ↗](https://coawp.com/go/591e8ae3-ffb7-4a58-b071-0ffaf7284339?from=github-finance) |
 | **AIMCo** | Client Investment Strategy Advisory, Co-op | Edmonton, AB<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/a9916a1d-21ac-4e52-a0fb-d56d596605a5?from=github-finance) |
