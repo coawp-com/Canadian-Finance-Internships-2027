@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**188 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**187 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Quantitative Finance & Trading](#quantitative-finance--trading) | 3 | 0 |
-| [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 3 | 0 |
+| [Investment Banking & Capital Markets](#investment-banking--capital-markets) | 2 | 0 |
 | [Investments & Asset Management](#investments--asset-management) | 15 | 1 |
 | [Accounting, Audit & Tax](#accounting-audit--tax) | 113 | 8 |
 | [Corporate Finance](#corporate-finance) | 13 | 2 |
@@ -36,12 +36,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Investment Banking & Capital Markets
 
-<sub>3 open roles</sub>
+<sub>2 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
-| **CIBC** | Global Markets Associate – Equity Research, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/b20bd1e2-b5b7-4dde-8e01-215d8af67821?from=github-finance) |
-| ↳ | Investment Banking Analyst – Energy & Infrastructure, Intern | Calgary, AB | Summer 2028<br><sub>4 months</sub> | Nov 15 | [Apply ↗](https://coawp.com/go/1dc2e477-ddee-4709-94ff-1b8ee23daa30?from=github-finance) |
+| **CIBC** | Investment Banking Analyst – Energy & Infrastructure, Intern | Calgary, AB | Summer 2028<br><sub>4 months</sub> | Nov 15 | [Apply ↗](https://coawp.com/go/1dc2e477-ddee-4709-94ff-1b8ee23daa30?from=github-finance) |
 | **Agentis Capital** | Investment Banking Winter Analyst – Infrastructure M&A Advisory | Toronto, ON<br>Vancouver, BC | Winter 2027<br><sub>4 months</sub> | Jun 29 | [Apply ↗](https://coawp.com/go/22a2d153-9bdd-40b8-8a90-bfac13962ebb?from=github-finance) |
 
 <p align="right"><sub><a href="#canadian-finance-internships-2027">Back to top</a></sub></p>
