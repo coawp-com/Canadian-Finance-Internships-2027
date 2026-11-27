@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**183 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**188 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -16,7 +16,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Investments & Asset Management](#investments--asset-management) | 16 | 2 |
 | [Accounting, Audit & Tax](#accounting-audit--tax) | 110 | 7 |
 | [Corporate Finance](#corporate-finance) | 13 | 2 |
-| [Banking & Wealth Advisory](#banking--wealth-advisory) | 3 | 1 |
+| [Banking & Wealth Advisory](#banking--wealth-advisory) | 8 | 6 |
 | [Risk & Compliance](#risk--compliance) | 27 | 6 |
 | [Actuarial & Insurance](#actuarial--insurance) | 9 | 1 |
 
@@ -213,10 +213,15 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Banking & Wealth Advisory
 
-<sub>3 open roles</sub>
+<sub>8 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **BMO** | Personal Banking Associate, Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/29d8c1c8-485e-485f-804f-eed7465058df?from=github-finance) |
+| ↳ | Personal Banking Associate, Co-op | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/20dc4a99-9248-49ab-91d5-d2fb54548273?from=github-finance) |
+| ↳ | Personal Banking Associate, Co-op | Edmonton, AB | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/d3f6bfda-df28-4f53-9736-c5d3db603362?from=github-finance) |
+| ↳ | Personal Banking Associate, Co-op | Saskatoon, SK | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/9e87bb25-b36f-4532-8d0e-bfd09d1b4933?from=github-finance) |
+| ↳ | Personal Banking Associate, Co-op | Winnipeg, MB | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/f8fd66ea-345e-4bda-b5f4-f02199b343eb?from=github-finance) |
 | **Desjardins** | Advisory Agent – Member and Client Experience, Student<br><sub>Requires French</sub> | Canada<br>Lévis, QC | 14 months | Nov 22 | [Apply ↗](https://coawp.com/go/6033877c-8dd6-42a1-ba9f-5007dffd96f8?from=github-finance) |
 | **RBC** | Client Advisor, Intern | London, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/3f545b5a-3282-458a-ac73-3763ec16a419?from=github-finance) |
 | ↳ | Client Advisor, Intern | Brantford, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/62b11956-d794-4e52-bff9-3742824d22c5?from=github-finance) |
