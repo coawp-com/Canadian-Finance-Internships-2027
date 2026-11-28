@@ -2,7 +2,7 @@
 
 # Canadian Finance Internships 2027
 
-**199 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**197 open internships, co-ops and student jobs** in banking, capital markets, investments, accounting, risk, actuarial and insurance across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -17,8 +17,8 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Accounting, Audit & Tax](#accounting-audit--tax) | 110 | 11 |
 | [Corporate Finance](#corporate-finance) | 13 | 2 |
 | [Banking & Wealth Advisory](#banking--wealth-advisory) | 20 | 20 |
-| [Risk & Compliance](#risk--compliance) | 27 | 6 |
-| [Actuarial & Insurance](#actuarial--insurance) | 10 | 2 |
+| [Risk & Compliance](#risk--compliance) | 26 | 6 |
+| [Actuarial & Insurance](#actuarial--insurance) | 9 | 1 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
 
@@ -240,7 +240,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Risk & Compliance
 
-<sub>27 open roles</sub>
+<sub>26 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -254,7 +254,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **AIMCo** | Risk Modelling, Co-op | Edmonton, AB<br>Calgary, AB<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/14189e28-75f3-46cd-8d8a-106bbb56d0c3?from=github-finance) |
 | **City of London** | Environmental Compliance, Intern | London, ON | Winter 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/5c3e821c-9485-45f7-ab2b-f87840e479e6?from=github-finance) |
 | **OLG** | Forensic Investigations, Student | Sault Ste. Marie, ON | Winter 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/7a1e1c88-b4cd-4ebb-b91f-0582093075b1?from=github-finance) |
-| **Canadian Tire** | Operational Risk Management, Intern | Oakville, ON | Winter 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/41a69c32-e9b1-439c-a094-01db27704118?from=github-finance) |
 | **EQ Bank** | Stress Testing – Risk Management, Intern | Toronto, ON<br><sub>Hybrid</sub> | — | Nov 9 | [Apply ↗](https://coawp.com/go/aff7de6d-1157-4ee7-892b-ea3c99af6a49?from=github-finance) |
 | **PCL Construction** | HSE, Intern | Oakville, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/c027f6ed-745b-413b-8680-4954c47646d3?from=github-finance) |
 | **BMO** | First Nations /​ Inuit /​ Métis – Commercial Banking Intern, Summer 2027 (Co-op/​Internship) - 4 months | Winnipeg, MB | Summer 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/d3eede7d-6540-4f3f-a30e-f140ccaaa94e?from=github-finance) |
@@ -276,11 +275,10 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Actuarial & Insurance
 
-<sub>10 open roles</sub>
+<sub>9 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
-| **Telus Health** | Actuarial, Co-op | Toronto, ON | Summer 2027 | Nov 26 | [Apply ↗](https://coawp.com/go/832f3532-1774-4717-8d9e-bf94ebc2427b?from=github-finance) |
 | **Coalition** | Actuarial Analyst, Intern | Canada | — | Nov 25 | [Apply ↗](https://coawp.com/go/7d0f4091-0b9c-4527-8cb2-2b579cdfce65?from=github-finance) |
 | **Definity** | Corporate Underwriting, Co-op | Waterloo, ON<br>Vancouver, BC<br><sub>+1 more</sub> | Winter 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/6b646659-5f7b-42f1-9903-36cbe549f5d6?from=github-finance) |
 | **Marsh McLennan** | Risk Early Career Program, Intern | Vancouver, BC<br><sub>Hybrid</sub> | Summer 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/283ea4cc-967d-4c95-a4c7-cbb7c3bd16ad?from=github-finance) |
